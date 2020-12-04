@@ -1,4 +1,5 @@
 #!/bin/bash
+## Script to set and/or activate the virtual environment
 
 # Create virtual environment if directory doesn't exist yet
 if [ ! -d "./.venv" ]
